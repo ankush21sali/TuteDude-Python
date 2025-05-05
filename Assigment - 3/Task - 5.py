@@ -1,12 +1,12 @@
 def factorial(num):
-    sum = 1
+    fact = 1
     count = num
 
     while count > 1:
-        sum *= count
+        fact *= count
         count -= 1
 
-    return sum
+    return fact
 
 num = int(input("Enter a Number : "))
 
