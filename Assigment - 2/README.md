@@ -1,4 +1,4 @@
-# Task - 1
+# Task - 3
 
 1. Ask user for input(), then it convert into int() and stored the value in num variable
 
@@ -19,7 +19,7 @@ example ==>
 
 -------------------------------------------------------------------------------------
 
-# Task - 2
+# Task - 4
 
 1. ask user for the start value of the sum, convert into int() and stored variable start_val.
 
