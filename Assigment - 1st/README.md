@@ -1,4 +1,4 @@
-#Task - 1
+# Task - 1
 
 1. input() asking user to type a input something.
 2. int() Convert user Input into integer
@@ -20,7 +20,7 @@ print("Division : ", div)
 ------------------------------------------------------------------------------
 
 
-#Task -2
+# Task -2
 
 1. input() asking user to type a input something. and Stored into f_name(First Name) & l_name(Last Name).
  
