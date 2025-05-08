@@ -4,11 +4,11 @@
 
 2. ask user for Student Name as input().
 
-3. using conditinal statement find student name in Dictionary.
+3. using conditinal statement find student name key in Dictionary.
 
-4. if name found in Dictionary Diplay Student name with there Marks.
+4. if name key found in Dictionary Diplay Student name key with there value Marks.
 
-5. else diplay Student Not Found.
+5. else: diplay Student Not Found.
 
 
 
