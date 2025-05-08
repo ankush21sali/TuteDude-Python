@@ -4,7 +4,7 @@
 
 2. ask user for Student Name as input().
 
-3. using conditinol statement find student name in Dictionary.
+3. using conditinal statement find student name in Dictionary.
 
 4. if name found in Dictionary Diplay Student name with there Marks.
 
