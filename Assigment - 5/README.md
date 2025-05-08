@@ -25,6 +25,6 @@
 
 4. use for loop for and take every single value from the list2.
 
-5. imsert the all value one by one from start, from list2 to list3.
+5. insert the all value one by one from start, from list2 to list3.
 
 6. at last diplay Orignal list, Extract list and Reversed list. 
